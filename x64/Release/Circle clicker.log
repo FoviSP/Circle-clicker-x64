@@ -1,0 +1,18 @@
+﻿  Circle clicker.cpp
+c:\users\user\source\repos\circle clicker\circle clicker\circle clicker.cpp(12): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\circle clicker\circle clicker\circle clicker.cpp(29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\circle clicker\circle clicker\circle clicker.cpp(30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\circle clicker\circle clicker\circle clicker.cpp(31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\circle clicker\circle clicker\circle clicker.cpp(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  All 99 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Circle clicker.vcxproj -> C:\Users\USER\source\repos\Circle clicker\x64\Release\Circle clicker.exe
